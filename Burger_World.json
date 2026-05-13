@@ -1,0 +1,29 @@
+{
+  "StoreName": "Burger World",
+  "Latitude": 37.987654,
+  "Longitude": 23.745321,
+  "FoodCategory": "burger",
+  "Stars": 5,
+  "NoOfVotes": 45,
+  "StoreLogo": "burger_logo.png",
+  "Products": [
+    {
+      "ProductName": "Classic Burger",
+      "ProductType": "burger",
+      "Available_Amount": 400,
+      "Price": 6.5
+    },
+    {
+      "ProductName": "Veggie Burger",
+      "ProductType": "burger",
+      "Available_Amount": 200,
+      "Price": 7.0
+    },
+    {
+      "ProductName": "Fries",
+      "ProductType": "sides",
+      "Available_Amount": 300,
+      "Price": 3.5
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "StoreName": "Pizza Fun",
+  "Latitude": 37.9932963,
+  "Longitude": 23.733413,
+  "FoodCategory": "pizzeria",
+  "Stars": 4,
+  "NoOfVotes": 20,
+  "StoreLogo": "pizza_logo.png",
+  "Products": [
+    {
+      "ProductName": "Margarita",
+      "ProductType": "pizza",
+      "Available_Amount": 500,
+      "Price": 9.2
+    },
+    {
+      "ProductName": "Chef’s Salad",
+      "ProductType": "salad",
+      "Available_Amount": 100,
+      "Price": 5.0
+    },
+    {
+      "ProductName": "Peperoni",
+      "ProductType": "pizza",
+      "Available_Amount": 300,
+      "Price": 10.5
+    }
+  ]
+}
